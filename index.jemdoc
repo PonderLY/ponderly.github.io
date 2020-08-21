@@ -2,34 +2,36 @@
 ==Liu, Yang
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
-PhD,\n [http://www.kth.se/ees/omskolan/organisation/avdelningar/ac?l=en_UK Automatic Control Department], \n[http://www.kth.se Royal Institute of Technology (KTH)]\n
-Osquldas v\&aumlg 10 \n
-100 44 Stockholm, Sweden \n 
-Phone: \+46 8 790 7000 \n
-Fax: \+46 8 790 7329\n
-E-post: /euhanna/ \[@\] kth \[DOT\] se
+{}{img_left}{img/me.jpeg}{alt text}{148}{210}{http://ponderly.github.io}
+PhD Candidate,\n 
+[http://iip.ict.ac.cn Key Lab of Intelligent Information Processing of Chinese Academy of Sciences], \n
+[http://www.ict.ac.cn Institute of Computing Technology (ICT)], \n
+[http://www.cas.cn Chinese Academy of Sciences (CAS)], \n
+No. 6 Kexueyuan South Rd. \n
+Haidian Dist., Beijing, China \n 
+E-mail: liuyang17z \[@\] ict \[DOT\] ac \[DOT\] cn
 ~~~
 
 == About me
-I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
- [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+I am a PhD candidate in the Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences(CAS), ICT, CAS.
+ 
+I am fortunate to be supervised by [http://people.ucas.edu.cn/~heqing Prof. Qing He] and co-supervised by [http://aoxaustin.github.io Prof. Xiang Ao].
+
+Previously, I received the B.S. degree in Mathematics from Nanjing University ([http://www.nju.edu.cn NJU]) in 2017. 
+
 
 == Research
 My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+- Financial Fraud Detection 
+- Graph Representation Learning
+- Spatio-temporal Activity Modeling
 
 [research.html Find out more].
 === Recent Publications 
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+. Xiang Ao, Yang Liu, Zhen Huang, Luo Zuo, and Qing He, \"Free-rider Episode Screening via Dual Partition Model\",  In Proceedings of the 23rd International Conference on Database Systems for Advanced Applications (DASFAA), 2018. \[[https://arxiv.org/abs/1805.07505v1 arXiv]\]
+. Yang Liu, Xiang Ao, Linfeng Dong, Chao Zhang, Jin Wang, and Qing He, \" Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding \", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. \[[pub/ACTOR_TKDE2020.pdf pdf]\]
+. Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang and Qing He, \"Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network\", In Proceedings of the Web Conference (WWW), 2020. \[[pub/MAHINDER_WWW2020.pdf pdf] \]
+. Yang Liu, Xiang Ao, Qiwei Zhong, Jinghua Feng, Jiayu Tang, and Qing He, \"Alike and Unlike: Resolving Class Imbalance Problem in Financial Credit Risk Assessment\", In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. \[[pub/ADAAR_CIKM2020.pdf pdf]\]
 
 [publications.html Full list of publications].
 \n

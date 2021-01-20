@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 
 == Full List of Publications 
-. Yang Liu, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang and Qing He. \"Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection\", To appear in Proceedings of the Web Conference (WWW), 2021.
-. Yang Liu, Xiang Ao, Qiwei Zhong, Jinghua Feng, Jiayu Tang, and Qing He. \"Alike and Unlike: Resolving Class Imbalance Problem in Financial Credit Risk Assessment\", In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. \[[pub/ADAAR_CIKM2020.pdf pdf]\] \[[https://dl.acm.org/doi/10.1145/3340531.3412111 ACM]\]
-. Yang Liu, Xiang Ao, Linfeng Dong, Chao Zhang, Jin Wang, and Qing He. \" Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding \", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. \[[pub/ACTOR_TKDE2020.pdf pdf]\] \[[https://ieeexplore.ieee.org/document/9050875 IEEE]\]
-. Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang and Qing He. \"Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network\", In Proceedings of the Web Conference (WWW), 2020. \[[pub/MAHINDER_WWW2020.pdf pdf]\] \[[https://dl.acm.org/doi/abs/10.1145/3366423.3380159 ACM]\]
-. Thapana Boonchoo, Xiang Ao, Yang Liu, Weizhong Zhao, Fuzhen Zhuang, and Qing He, \"Grid-based DBSCAN: Indexing and inference\", Pattern Recognition, 2019. \[[pub/GDCF_PR2019.pdf pdf]\] \[[https://www.sciencedirect.com/science/article/pii/S0031320319300500 ScienceDirect]\]
-. Xiang Ao, Yang Liu, Zhen Huang, Luo Zuo, and Qing He, \"Free-rider Episode Screening via Dual Partition Model\",  In Proceedings of the 23rd International Conference on Database Systems for Advanced Applications (DASFAA), 2018. \[[https://arxiv.org/abs/1805.07505v1 arXiv]\]
+. *Yang Liu*, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang and Qing He. \"Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection\", To appear in Proceedings of the Web Conference (WWW), 2021.
+. *Yang Liu*, Xiang Ao, Qiwei Zhong, Jinghua Feng, Jiayu Tang, and Qing He. \"Alike and Unlike: Resolving Class Imbalance Problem in Financial Credit Risk Assessment\", In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020. \[[pub/ADAAR_CIKM2020.pdf pdf]\] \[[https://dl.acm.org/doi/10.1145/3340531.3412111 ACM]\]
+. *Yang Liu*, Xiang Ao, Linfeng Dong, Chao Zhang, Jin Wang, and Qing He. \" Spatiotemporal Activity Modeling via Hierarchical Cross-Modal Embedding \", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. \[[pub/ACTOR_TKDE2020.pdf pdf]\] \[[https://ieeexplore.ieee.org/document/9050875 IEEE]\]
+. Qiwei Zhong, *Yang Liu*, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang and Qing He. \"Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network\", In Proceedings of the Web Conference (WWW), 2020. \[[pub/MAHINDER_WWW2020.pdf pdf]\] \[[https://dl.acm.org/doi/abs/10.1145/3366423.3380159 ACM]\]
+. Thapana Boonchoo, Xiang Ao, *Yang Liu*, Weizhong Zhao, Fuzhen Zhuang, and Qing He, \"Grid-based DBSCAN: Indexing and inference\", Pattern Recognition, 2019. \[[pub/GDCF_PR2019.pdf pdf]\] \[[https://www.sciencedirect.com/science/article/pii/S0031320319300500 ScienceDirect]\]
+. Xiang Ao, *Yang Liu*, Zhen Huang, Luo Zuo, and Qing He, \"Free-rider Episode Screening via Dual Partition Model\",  In Proceedings of the 23rd International Conference on Database Systems for Advanced Applications (DASFAA), 2018. \[[https://arxiv.org/abs/1805.07505v1 arXiv]\]
 
 
 

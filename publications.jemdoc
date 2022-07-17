@@ -5,7 +5,7 @@
 == Conference Papers
 
 . *Yang Liu*, Xiang Ao, Fuli Feng, and Qing He. \n
-  [pub/UDGNN_KDD2022.pdf UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs] \n 
+  [pub/UDGNN_KDD2022.pdf UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs] \[[pub/UDGNN_slides.pdf Slides]\] \[[https://files.atypon.com/acm/5eff5f9771c2c1ec3b237a43320af632 Talk]\] \n 
   To appear in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2022.
 . Kuan Li, *Yang Liu*, Xiang Ao, Jianfeng Chi, Jinghua Feng, Hao Yang and Qing He. \n
   [pub/STABLE_KDD2022.pdf Reliable Representations Make A Stonger Defender: Unsupervised Structure Refinement for Robust GNN] \n

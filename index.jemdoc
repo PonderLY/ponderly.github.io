@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{img/202109.jpg}{alt text}{148}{210}{http://ponderly.github.io}
-PhD Candidate,\n 
+PhD,\n 
 [http://iip.ict.ac.cn Key Lab of Intelligent Information Processing of Chinese Academy of Sciences], \n
 [http://www.ict.ac.cn Institute of Computing Technology (ICT)], \n
 [http://www.cas.cn Chinese Academy of Sciences (CAS)], \n
@@ -13,25 +13,26 @@ E-mail: liuyang17z \[@\] ict \[DOT\] ac \[DOT\] cn
 ~~~
 
 == About me
-I am a PhD candidate in the Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences(CAS), ICT, CAS.
+Liu Yang is an assistant professor in the Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences(CAS), ICT, CAS.
 
-I am fortunate to be supervised by [http://people.ucas.edu.cn/~heqing Prof. Qing He] and co-supervised by [http://aoxaustin.github.io Prof. Xiang Ao]. Here is my [https://scholar.google.com.hk/citations?user=kVoIIXkAAAAJ&hl=zh-CN Google Scholar] and [https://dblp.org/pid/51/3710-200.html DBLP Page].
+He got his PhD from Institute of Computing Technology Chinese Academy of Sciences under the supervision of [http://people.ucas.edu.cn/~heqing Prof. Qing He], and co-supervised by [http://aoxaustin.github.io Prof. Xiang Ao]. Here is his [https://scholar.google.com.hk/citations?user=kVoIIXkAAAAJ&hl=zh-CN Google Scholar] and [https://dblp.org/pid/51/3710-200.html DBLP Page].
 
-From Feb 2022 to Feb 2023, I was a visiting scholar in the [https://www.nextcenter.org/ NExT Research Centre], National University of Singapore([https://www.nus.edu.sg/ NUS]), adviced by Prof. [https://www.chuatatseng.com/ Chua Tat-Seng]. Also, I work with Prof. [https://fulifeng.github.io/ Fuli Feng] and Dr. [http://yunshan.me/ Yunshan Ma].
+From Feb 2022 to Feb 2023, he was a visiting scholar in the [https://www.nextcenter.org/ NExT Research Centre], National University of Singapore([https://www.nus.edu.sg/ NUS]), adviced by Prof. [https://www.chuatatseng.com/ Chua Tat-Seng]. Also, he worked with Prof. [https://fulifeng.github.io/ Fuli Feng] and Dr. [http://yunshan.me/ Yunshan Ma].
 
-Previously, I received the B.S. degree in Mathematics from Nanjing University ([http://www.nju.edu.cn NJU]) in 2017. 
+Previously, he received the B.S. degree in Mathematics from Nanjing University ([http://www.nju.edu.cn NJU]) in 2017. 
 
 
 == Research
 My research interests include 
 - Financial Fraud Detection 
-- Graph Representation Learning
-- Spatio-temporal Activity Modeling
+- Trustworthy Graph Machine Learning
+- Out-of-Distribution Generalization
+- Privacy-perserving Computing
 
 [research.html Find out more].
 == Recent Publications 
 
-. *Yang Liu*, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He. \"FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs\", To appear in the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023).
+. *Yang Liu*, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He. \"FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs\", To appear in the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2023). \[[pub/FLOOD_KDD2023.pdf Paper]\]
 . *Yang Liu*, Xiang Ao, Fuli Feng, and Qing He. \"UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs\", In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Pages 1131–1140, 2022. \[[pub/UDGNN_KDD2022.pdf Paper]\] \[[pub/UDGNN_slides.pdf Slides]\] \[[https://files.atypon.com/acm/5eff5f9771c2c1ec3b237a43320af632 Talk]\] \[[https://dl.acm.org/doi/abs/10.1145/3534678.3539483 ACM]\]
 . Kuan Li, *Yang Liu*, Xiang Ao, Qing He. \"Revisiting Graph Adversarial Attack and Defense From a Data Distribution Perspective\", International Conference on Learning Representations (ICLR), 2023. \[[pub/Revisiting_ICLR2023.pdf Paper]\] \[[https://openreview.net/forum?id=dSYoPjM5J_W OpenReview]\]
 . Kuan Li, *Yang Liu*, Xiang Ao, Jianfeng Chi, Jinghua Feng, Hao Yang and Qing He. \"Reliable Representations Make A Stonger Defender: Unsupervised Structure Refinement for Robust GNN\", In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Pages 925–935, 2022. \[[pub/STABLE_KDD2022.pdf Paper]\] \[[https://github.com/likuanppd/STABLE Code]\]  \[[pub/STABLE_slides.pdf Slides]\] \[[https://arxiv.org/abs/2207.00012 arXiv]\] \[[https://dl.acm.org/doi/abs/10.1145/3534678.3539484 ACM]\]

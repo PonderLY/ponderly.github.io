@@ -4,6 +4,9 @@
 
 == Conference Papers
 
+. Guanghui Hu, *Yang Liu*, Qing He and Xiang Ao. \n
+  F2GNN: An Adaptive Filter with Feature Segmentation for Graph-based Fraud Detection. \n
+  To appear in 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP2024).
 . *Yang Liu*, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He. \n
   [pub/FLOOD_KDD2023.pdf FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs] \[[pub/FLOOD_slides.pdf Slides]\] \[[https://www.bilibili.com/video/BV18M4y1s7UN/?share_source=copy_web&vd_source=46fea0c86812502b4bd703eca52de309 Talk]\] \[[https://dl.acm.org/doi/10.1145/3580305.3599355 ACM]\] \n
   In Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Pages 1548–1558, 2023.

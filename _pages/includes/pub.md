@@ -67,12 +67,13 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-- `AAAI 2025` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
+- `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](https://arxiv.org/abs/2312.11947), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao.
+- `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](https://arxiv.org/abs/2312.11947), Junhong Lian, Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He.
+- ``AAAI 2025`` [Dynamic Graph Learning with Static Relations for Credit Risk Assessment](https://text-to-audio.github.io/paper.pdf), Qi Yuan, **Yang Liu**, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He and Xiang Ao.
+- ``DASFAA 2025`` [OFTEN: Graph Invariant Learning via Soft Environment Inference](), **Yang Liu**, Zikun Zhang, Xiang Ao, Lingxiang Tian, Qing He.
+- ``ICASSP 2025`` [Domain-aware Node Representation Learning for Graph Out-of-Distribution Generalization](), Yi Qiao, Yang Liu, Qing He, Xiang Ao.
+- ``WSDM 2025`` [LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework](), Yiran Qiao, Xiang Ao, **Yang Liu**, Jiarong Xu, Xiaoqian Sun and Qing He.
+- ``ICLR 2024`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
 - `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
 - `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
 - `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.

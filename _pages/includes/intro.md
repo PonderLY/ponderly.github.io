@@ -2,7 +2,7 @@ Liu Yang is an assistant professor in the Key Laboratory of Intelligent Informat
 
 He got his PhD from Institute of Computing Technology Chinese Academy of Sciences under the supervision of Prof. [Qing He](https://people.ucas.ac.cn/~heqing?language=en), and co-supervised by Prof. [Xiang Ao](https://aoxaustin.github.io/). 
 
-From Feb 2022 to Feb 2023, he was a visiting scholar in the NExT Research Centre, National University of Singapore(NUS), adviced by Prof. Chua Tat-Seng. Also, he worked with Prof. Fuli Feng and Dr. Yunshan Ma.
+From Feb 2022 to Feb 2023, he was a visiting scholar in the NExT Research Centre, National University of Singapore(NUS), adviced by Prof. [Chua Tat-Seng](https://www.chuatatseng.com/). Also, he worked with Prof. [Fuli Feng](https://fulifeng.github.io/) and Prof. [Yunshan Ma](https://mysbupt.github.io/).
 
 Previously, he received the B.S. degree in Mathematics from Nanjing University (NJU) in 2017.
 

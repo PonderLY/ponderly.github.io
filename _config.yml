@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : #"rayeren"
   dblp             : "https://dblp.org/pid/51/3710-200.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0000-0002-1525-0788"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

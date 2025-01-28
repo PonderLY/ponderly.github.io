@@ -77,6 +77,10 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - `ICLR 2023` [Revisiting Graph Adversarial Attack and Defense From a Data Distribution Perspective](pub/Revisiting_ICLR2023.pdf), Kuan Li, *Yang Liu*, Xiang Ao, Qing He. 
 - `KDD 2023` [FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs](pub/FLOOD_KDD2023.pdf), **Yang Liu**, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He.
 - `KDD 2022` [UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs](pub/UDGNN_KDD2022.pdf), **Yang Liu**, Xiang Ao, Fuli Feng, and Qing He.
+- `WWW 2021` [Pick and Choose: A GNN-based Imbalanced Learning Approach for Fraud Detection] (pub/PCGNN_WWW2021.pdf), **Yang Liu**, Xiang Ao, Zidi Qin, Jianfeng Chi, Jinghua Feng, Hao Yang and Qing He. [![](https://img.shields.io/github/stars/PonderLY/PC-GNN?style=social&label=Code+Stars)](https://github.com/PonderLY/PC-GNN) [Slides](pub/PCGNN_slides.pdf Slides) [Talk](https://www.youtube.com/watch?v=jdLszHi-3Jo)
+- `CIKM 2020` [Alike and Unlike: Resolving Class Imbalance Problem in Financial Credit Risk Assessment](pub/ADAAR_CIKM2020.pdf), **Yang Liu**, Xiang Ao, Qiwei Zhong, Jinghua Feng, Jiayu Tang, and Qing He. 
+  [Slides](pub/ADAAR_slides.pdf) [Talk](https://youtu.be/l8yXj9Yxg0U) 
+  Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 
 
 <!-- - `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)

@@ -68,15 +68,15 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div> -->
 
 - `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](pub/GOODAT_ICLR2024.pdf), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao.
-- `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](https://arxiv.org/abs/2312.11947), Junhong Lian, Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He.
-- ``AAAI 2025`` [Dynamic Graph Learning with Static Relations for Credit Risk Assessment](https://text-to-audio.github.io/paper.pdf), Qi Yuan, **Yang Liu**, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He and Xiang Ao.
+- `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](pub/SCAPE_WWW2025.pdf), Junhong Lian, Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He.
+- ``AAAI 2025`` [Dynamic Graph Learning with Static Relations for Credit Risk Assessment](pub/DGNNSR_AAAI2025.pdf), Qi Yuan, **Yang Liu**, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He and Xiang Ao.
 - ``DASFAA 2025`` [OFTEN: Graph Invariant Learning via Soft Environment Inference](), **Yang Liu**, Zikun Zhang, Xiang Ao, Lingxiang Tian, Qing He.
-- ``ICASSP 2025`` [Domain-aware Node Representation Learning for Graph Out-of-Distribution Generalization](), Yi Qiao, **Yang Liu**, Qing He, Xiang Ao.
-- ``WSDM 2025`` [LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework](), Yiran Qiao, Xiang Ao, **Yang Liu**, Jiarong Xu, Xiaoqian Sun and Qing He.
-- ``ICLR 2024`` [Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective](), Kuan Li, Yiwen Chen, **Yang Liu**, Jin Wang, Qing He, Minhao Cheng and Xiang Ao. [![](https://img.shields.io/github/stars/likuanppd/GOOD-AT?style=social&label=Code+Stars)](https://github.com/likuanppd/GOOD-AT)
+- ``ICASSP 2025`` [Domain-aware Node Representation Learning for Graph Out-of-Distribution Generalization](pub/DNRL_ICASSP2025.pdf), Yi Qiao, **Yang Liu**, Qing He, Xiang Ao.
+- ``WSDM 2025`` [LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework](https://arxiv.org/abs/2405.13902), Yiran Qiao, Xiang Ao, **Yang Liu**, Jiarong Xu, Xiaoqian Sun and Qing He.
+- ``ICLR 2024`` [Boosting the Adversarial Robustness of Graph Neural Networks: An OOD Perspective](pub/GOODAT_ICLR2024.pdf), Kuan Li, Yiwen Chen, **Yang Liu**, Jin Wang, Qing He, Minhao Cheng and Xiang Ao. [![](https://img.shields.io/github/stars/likuanppd/GOOD-AT?style=social&label=Code+Stars)](https://github.com/likuanppd/GOOD-AT)
 - `ICLR 2023` [Revisiting Graph Adversarial Attack and Defense From a Data Distribution Perspective](pub/Revisiting_ICLR2023.pdf), Kuan Li, *Yang Liu*, Xiang Ao, Qing He. 
-- `KDD 2023` [FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs](https://arxiv.org/abs/2305.17732), **Yang Liu**, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He.
-- `KDD 2022` [UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs](https://arxiv.org/abs/2306.15304), **Yang Liu**, Xiang Ao, Fuli Feng, and Qing He.
+- `KDD 2023` [FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs](pub/FLOOD_KDD2023.pdf), **Yang Liu**, Xiang Ao, Fuli Feng, Yunshan Ma, Kuan Li, Tat-Seng Chua and Qing He.
+- `KDD 2022` [UD-GNN: Uncertainty-aware Debiased Training on Semi-Homophilous Graphs](pub/UDGNN_KDD2022.pdf), **Yang Liu**, Xiang Ao, Fuli Feng, and Qing He.
 
 
 <!-- - `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)

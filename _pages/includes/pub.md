@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝 Selected Research Papers 
 ## 🎙 Graph Machine Learning
 
 <!-- 
@@ -67,7 +67,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div>
 </div> -->
 
-- `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](pub/SPEAR_WWW2025.pdf), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao.
+- `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](pub/SPEAR_WWW2025.pdf), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao. [![](https://img.shields.io/github/stars/yhDing/SPEAR?style=social&label=Code+Stars)](https://github.com/yhDing/SPEAR)
 - `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](pub/SCAPE_WWW2025.pdf), Junhong Lian, Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He.
 - ``AAAI 2025`` [Dynamic Graph Learning with Static Relations for Credit Risk Assessment](pub/DGNNSR_AAAI2025.pdf), Qi Yuan, **Yang Liu**, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He and Xiang Ao.
 - ``DASFAA 2025`` [OFTEN: Graph Invariant Learning via Soft Environment Inference](), **Yang Liu**, Zikun Zhang, Xiang Ao, Lingxiang Tian, Qing He.

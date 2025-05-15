@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05.15*: 🎉 One paper is accepted by KDD 2025
 - *2025.01.25*: 🎉 One paper is accepted by DASFFA 2025
 - *2025.01.20*: 🎉 Two papers are accepted by WWW 2025
 - *2024.12.21*: 🎉 One paper is accepted by ICASSP 2025

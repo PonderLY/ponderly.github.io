@@ -66,7 +66,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div> -->
-
+- `KDD 2025` GRASP: Differentially Private Graph Reconstruction Defense with Structured Perturbation. Zhiyu Guo, Yang Liu, Xiang Ao, Qing He.
 - `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](pub/SPEAR_WWW2025.pdf), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao. [![](https://img.shields.io/github/stars/yhDing/SPEAR?style=social&label=Code+Stars)](https://github.com/yhDing/SPEAR)
 - `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](pub/SCAPE_WWW2025.pdf), Junhong Lian, Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He.
 - ``AAAI 2025`` [Dynamic Graph Learning with Static Relations for Credit Risk Assessment](pub/DGNNSR_AAAI2025.pdf), Qi Yuan, **Yang Liu**, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He and Xiang Ao.

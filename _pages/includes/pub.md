@@ -66,7 +66,8 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div> -->
-- `ICDM 2025` [Dilution of Unreliable Information: Learning in Graph with Noisy Structures and Absent Attributes](pub/GRASP_KDD2025.pdf), Xinxin Li, **Yang Liu**, Weigao Wen, Siyong Xu, Qing He, and Xiang Ao.
+- `ICAIF 2025` [Robust Graph Learning in Finance](pub/RENA_ICDM2025.pdf), Xiang Ao, **Yang Liu**, Guansong Pang, Yuanhao Ding, Hezhe Qiao, Dawei Cheng, and Qing He.
+- `ICDM 2025` [Dilution of Unreliable Information: Learning in Graph with Noisy Structures and Absent Attributes](pub/RENA_ICDM2025.pdf), Xinxin Li, **Yang Liu**, Weigao Wen, Siyong Xu, Qing He, and Xiang Ao.
 - `KDD 2025` [GRASP: Differentially Private Graph Reconstruction Defense with Structured Perturbation](pub/GRASP_KDD2025.pdf), Zhiyu Guo, **Yang Liu**, Xiang Ao, Qing He. [![](https://img.shields.io/github/stars/ZhiyuZone/GRASP?style=social&label=Code+Stars)](https://github.com/ZhiyuZone/GRASP/)
 - `WWW 2025` [SPEAR: A Structure-Preserving Manipulation Method for Graph Backdoor Attacks](pub/SPEAR_WWW2025.pdf), Yuanhao Ding, **Yang Liu**, Yugang Ji, Weigao Wen, Qing He and Xiang Ao. [![](https://img.shields.io/github/stars/yhDing/SPEAR?style=social&label=Code+Stars)](https://github.com/yhDing/SPEAR)
 - `WWW 2025` [Panoramic Interests: Stylistic-Content Aware Personalized Headline Generation](pub/SCAPE_WWW2025.pdf), [Junhong Lian](https://t-atlas.github.io/), Xiang Ao, Xinyu Liu, **Yang Liu** and Qing He. [![](https://img.shields.io/github/stars/ictmldm/SCAPE?style=social&label=Code+Stars)](https://github.com/ictmldm/SCAPE)

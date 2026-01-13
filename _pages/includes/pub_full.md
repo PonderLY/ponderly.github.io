@@ -23,6 +23,6 @@
 
 - Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, Yang Liu, Qing He. Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms. To appear in the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2026).
 
-
+- Zhiyu Guo, Yang Liu, Xiang Ao and Qing He. Graph-Agnostic Linear Transformers. To appear in Neural Networks.
 
 

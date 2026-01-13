@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01.11*: 🎉 One paper is accepted by NeuraL Networks
 - *2025.12.05*: 🎉 One tutorial is accepted by WWW 2026
 - *2025.08.31*: 🎉 One tutorial is accepted by ICAIF 2025
 - *2025.08.26*: 🎉 One paper is accepted by ICDM 2025

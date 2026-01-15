@@ -66,6 +66,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 [**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
 </div>
 </div> -->
+- `WWW 2026` A2GBD: Attack-Agnostic Graph Backdoor Defense, Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li.
 - `Neural Networks` [Graph-Agnostic Linear Transformers](pub/GRASP_KDD2025.pdf), Zhiyu Guo, **Yang Liu**, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He.
 - `KDD 2026` [Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms](pub/AC-MIL_KDD2026.pdf), Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, **Yang Liu**, Qing He.
 - `ICAIF 2025` [Robust Graph Learning in Finance](https://qwer12191.github.io/robust-graph-learning/), Xiang Ao, **Yang Liu**, Guansong Pang, Yuanhao Ding, Hezhe Qiao, Dawei Cheng, and Qing He.

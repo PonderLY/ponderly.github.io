@@ -25,4 +25,4 @@
 
 - Zhiyu Guo, Yang Liu, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, and Qing He. Graph-Agnostic Linear Transformers. To appear in Neural Networks.
 
-
+- Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li. A2GBD: Attack-Agnostic Graph Backdoor Defense. To appear in the Proceedings of the ACM on Web Conference 2026 

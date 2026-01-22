@@ -23,6 +23,6 @@
 
 - Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, Yang Liu, Qing He. Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms. To appear in the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2026).
 
-- Zhiyu Guo, Yang Liu, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, and Qing He. Graph-Agnostic Linear Transformers. To appear in Neural Networks.
+- Zhiyu Guo, Yang Liu, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, and Qing He. Graph-Agnostic Linear Transformers. Neural Networks, Volume 198, 2026, 108595, ISSN 0893-6080. [https://doi.org/10.1016/j.neunet.2026.108595](https://doi.org/10.1016/j.neunet.2026.108595)
 
 - Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li. A2GBD: Attack-Agnostic Graph Backdoor Defense. To appear in the Proceedings of the ACM on Web Conference 2026 

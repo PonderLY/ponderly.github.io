@@ -21,8 +21,13 @@
 
 ## 🐎 2026
 
-- Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, Yang Liu, Qing He. Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms. To appear in the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2026).
+- Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li. A2GBD: Attack-Agnostic Graph Backdoor Defense. Proceedings of the ACM on Web Conference 2026, Pages 1229 - 1239. [https://doi.org/10.1145/3774904.3792507](https://doi.org/10.1145/3774904.3792507) 
 
 - Zhiyu Guo, Yang Liu, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, and Qing He. Graph-Agnostic Linear Transformers. Neural Networks, Volume 198, 2026, 108595, ISSN 0893-6080. [https://doi.org/10.1016/j.neunet.2026.108595](https://doi.org/10.1016/j.neunet.2026.108595)
 
-- Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li. A2GBD: Attack-Agnostic Graph Backdoor Defense. To appear in the Proceedings of the ACM on Web Conference 2026 
+- Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, Yang Liu, Qing He. Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms. Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1, Pages 1182 - 1193.
+[https://doi.org/10.1145/3770854.3780246](https://doi.org/10.1145/3770854.3780246)
+
+- Yiran Qiao, Xiang Ao, Jing Chen, Yang Liu, Qiwei Zhong and Qing He. Deja Vu in Plots: Leveraging Cross-Session Evidence with Retrieval-Augmented LLMs for Live Streaming Risk Assessment. To appear in the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR2026).
+
+- Xiang Ao, Yiran Qiao, Ningtao Wang, Xing Fu, Yang Liu, Thapana Boonchoo, Weiqiang Wang, Qing He and Xueqi Cheng. Passing on Wisdom: LLM-driven Cascaded Knowledge Distillation for Sequential Recommendation. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE). 2026

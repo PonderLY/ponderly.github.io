@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.08.11*: 🎉 One paper is accepted by CIKM 2026
 - *2026.01.13*: 🎉 One paper is accepted by WWW 2026
 - *2026.01.11*: 🎉 One paper is accepted by Neural Networks
 - *2025.12.05*: 🎉 One tutorial is accepted by WWW 2026

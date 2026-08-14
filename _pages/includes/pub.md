@@ -67,6 +67,7 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 </div> -->
 - `CIKM 2026` [GrAP³: A Data-free Model Extraction Attack Framework under Graph Pre-training and Prompt Learning Paradigm](pub/GrAP_CIKM2026.pdf), Lingxiang Tian, **Yang Liu**, Xingtong Yu, Zhuoer Xu and Xiang Ao.
 - `WWW 2026` [A2GBD: Attack-Agnostic Graph Backdoor Defense](pub/A2GBD_WWW2026.pdf), Chenxu Du, **Yang Liu**, Xingtong Yu, Zhuoer Xu, Yang Liu, Tianrui Li.
+- `WWW 2026` [Robust Graph Learning on the Web: Challenges, Methods, and Applications](pub/Tu_WWW2026.pdf), Xiang Ao, **Yang Liu**, Guansong Pang, Yuanhao Ding, Hezhe Qiao, Dawei Cheng, and Qing He.
 - `Neural Networks` [Graph-Agnostic Linear Transformers](pub/GALiT_NN2026.pdf), Zhiyu Guo, **Yang Liu**, Xiang Ao, Yateng Tang, Xinhuan Chen, Xuehao Zheng, Qing He.
 - `KDD 2026` [Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms](pub/AC-MIL_KDD2026.pdf), Yiran Qiao, Jing Chen, Xiang Ao, Qiwei Zhong, **Yang Liu**, Qing He.
 - `ICAIF 2025` [Robust Graph Learning in Finance](https://qwer12191.github.io/robust-graph-learning/), Xiang Ao, **Yang Liu**, Guansong Pang, Yuanhao Ding, Hezhe Qiao, Dawei Cheng, and Qing He.
